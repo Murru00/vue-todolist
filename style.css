@@ -1,0 +1,19 @@
+.shoes-list{
+    background-color: rgb(222, 222, 222);
+    color: green;
+    border-radius: 5px;
+}
+
+ i {
+    cursor: pointer;
+
+}
+
+ul{
+    list-style: none;
+}
+
+
+h3{
+    margin-left: 30px;
+}
